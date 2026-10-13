@@ -2,7 +2,18 @@
 
 > ETL incremental en Python que procesa los logs diarios de una API y resume errores, rutas lentas y horas anómalas.
 
-**Estado:** 🚧 sin empezar · **Tipo:** ETL incremental en Python · **Módulo del programa:** 04 · Retos de Python
+**Estado:** 🚧 sin empezar · **Categoría:** DevSandbox · **Tipo:** ETL incremental en Python · **Módulo del programa:** 04 · Retos de Python
+
+## Qué significa el nombre
+
+El prefijo del repositorio indica el tamaño del proyecto:
+
+| Prefijo | Tamaño | Qué es |
+|---|---|---|
+| **`DevSandbox-`** ← este | Hasta 8 h | Un proyecto pequeño para practicar un tema concreto: un espacio para probar, equivocarse y terminar rápido |
+| `NightBuilds-` | 8 h o más | Un proyecto grande, con varias piezas (base de datos, orquestación, nube o API) y decisiones de diseño propias |
+
+Este es un **DevSandbox**: el reto está estimado en 6–8 h.
 
 ## La problemática
 
