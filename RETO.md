@@ -1,8 +1,8 @@
-# 🚀 Sideproject — Monitor de logs
+# 🚀 DevSandbox — Monitor de logs
 
-**Repositorio:** `sideproject-monitor-de-logs` · **Tipo:** ETL incremental en Python · **Tiempo:** 6–8 h · **Después de:** los retos 1 a 14
+**Repositorio:** `DevSandbox-monitor-de-logs` · **Tipo:** ETL incremental en Python · **Tiempo:** 6–8 h · **Después de:** los retos 1 a 14
 
-> Reglas, README y lista de cierre: [`SIDEPROJECTS.md`](docs/REGLAS.md). Evaluación: [`RUBRICA.md`](docs/RUBRICA.md). **No hay solución: el diseño es tuyo.**
+> Reglas, README y lista de cierre: [`NIGHTBUILDS.md`](docs/REGLAS.md). Evaluación: [`RUBRICA.md`](docs/RUBRICA.md). **No hay solución: el diseño es tuyo.**
 
 ## El caso
 

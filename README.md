@@ -1,4 +1,4 @@
-# sideproject-monitor-de-logs
+# DevSandbox-monitor-de-logs
 
 > ETL incremental en Python que procesa los logs diarios de una API y resume errores, rutas lentas y horas anómalas.
 
@@ -20,7 +20,7 @@ Los archivos de `datos/` son **sintéticos**, generados para practicar: no corre
 
 El enunciado completo, con sus hitos y cómo comprobar cada uno, está en [`RETO.md`](RETO.md). No trae solución: el diseño es tuyo.
 
-- [`docs/REGLAS.md`](docs/REGLAS.md): cómo se trabaja un sideproject y qué debe tener este README al terminar.
+- [`docs/REGLAS.md`](docs/REGLAS.md): cómo se trabaja un DevSandbox y qué debe tener este README al terminar.
 - [`docs/RUBRICA.md`](docs/RUBRICA.md): con qué criterios se evalúa.
 
 ## Cómo se ejecuta
